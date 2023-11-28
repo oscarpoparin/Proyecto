@@ -1,0 +1,3 @@
+com\mycompany\sistema_de_gestion_y_control_escolar\model\ImageConfig.class
+com\mycompany\sistema_de_gestion_y_control_escolar\controller\ImageController.class
+com\mycompany\sistema_de_gestion_y_control_escolar\model\ConfigReader.class
